@@ -5,3 +5,5 @@
 ## Luca Pinheiro Ra: 23.00335-9
 
 ## Yuri Drapack Alves Ra: 23.00243-3
+
+## Lucca de Souza Oliveira Ra: 23.01053-3
